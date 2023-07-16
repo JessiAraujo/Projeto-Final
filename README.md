@@ -10,3 +10,6 @@ Combinei técnicas de HTML semântico, CSS com animações, acessibilidade, resp
 Foi muito significativo fazer parte dessa turma, me sinto honrada. Aprendi muito e vou continuar aprendendo.
 
 "Somos o que repetidamente fazemos. A excelência, portanto, não é um feito, mas um hábito." (Aristóteles)
+
+Link do projeto :
+ https://jessiaraujo.github.io/Projeto-Final/
